@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "ВАЗ-2106",
+      "fuelCapacity": "39",
+      "consumption": "10",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    },
+    {
+      "id": "2",
+      "name": "Audi R8",
+      "fuelCapacity": "90",
+      "consumption": "20",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    },
+    {
+      "id": "3",
+      "name": "Bugatti Veyron",
+      "fuelCapacity": "100",
+      "consumption": "23",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    },
+    {
+      "id": "4",
+      "name": "Lamborghini Gallardo",
+      "fuelCapacity": "80",
+      "consumption": "19",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    },
+    {
+      "id": "5",
+      "name": "TOYOTA COROLLA",
+      "fuelCapacity": "55",
+      "consumption": "11",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    },
+    {
+      "id": "6",
+      "name": "Opel Astra",
+      "fuelCapacity": "52",
+      "consumption": "7",
+      "cardNo": "3423 2341 4643 3453",
+      "geoDetectorNo": "2359872"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "data": [
+    {
+      "proposal": {
+        "id": 601,
+        "company": "ООО \"Мир\"",
+        "contract": 3214,
+        "goods": "Мандарины"
+      },
+      "driver": {
+        "id": 501,
+        "name": "Сидоров С.В."
+      },
+      "route": {
+        "progress": 33,
+        "from": "Москва",
+        "to": "Набережные Челны",
+        "passed": 974
+      },
+      "status": {
+        "time": "02:55",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 602,
+        "company": "ООО \"Мир\"",
+        "contract": 3214,
+        "goods": "Мандарины"
+      },
+      "driver": {
+        "id": 502,
+        "name": "Сидоров С.В."
+      },
+      "route": {
+        "progress": 28,
+        "from": "Владивосток",
+        "to": "Иркутск",
+        "passed": 500
+      },
+      "status": {
+        "time": "03:05",
+        "status": "Опаздывает"
+      }
+    }, 
+    {
+      "proposal": {
+        "id": 381,
+        "company": "ООО \"Polarax\"",
+        "contract": 9806,
+        "goods": "Апельсины"
+      },
+      "driver": {
+        "id": 462,
+        "name": "Геннадий Беляев"
+      },
+      "route": {
+        "progress": 72,
+        "from": "Нижний Новгород",
+        "to": "Набережные Челны",
+        "passed": 575
+      },
+      "status": {
+        "time": "16:41",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 984,
+        "company": "ООО \"Fanfare\"",
+        "contract": 7742,
+        "goods": "Апельсины"
+      },
+      "driver": {
+        "id": 967,
+        "name": "Никита Новиков"
+      },
+      "route": {
+        "progress": 54,
+        "from": "Нижний Новгород",
+        "to": "Смоленск",
+        "passed": 195
+      },
+      "status": {
+        "time": "30:45",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 297,
+        "company": "ООО \"Squish\"",
+        "contract": 4623,
+        "goods": "Мандарины"
+      },
+      "driver": {
+        "id": 393,
+        "name": "Петр Михайлов"
+      },
+      "route": {
+        "progress": 74,
+        "from": "Казань",
+        "to": "Брянск",
+        "passed": 18
+      },
+      "status": {
+        "time": "38:35",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 949,
+        "company": "ООО \"Signity\"",
+        "contract": 2621,
+        "goods": "Смартфоны"
+      },
+      "driver": {
+        "id": 404,
+        "name": "Петр Соколов"
+      },
+      "route": {
+        "progress": 26,
+        "from": "Якутск",
+        "to": "Брянск",
+        "passed": 595
+      },
+      "status": {
+        "time": "24:01",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 998,
+        "company": "ООО \"Kozgene\"",
+        "contract": 4571,
+        "goods": "Холодильники"
+      },
+      "driver": {
+        "id": 304,
+        "name": "Петр Титов"
+      },
+      "route": {
+        "progress": 87,
+        "from": "Хабаровск",
+        "to": "Норильск",
+        "passed": 993
+      },
+      "status": {
+        "time": "42:04",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 774,
+        "company": "ООО \"Spacewax\"",
+        "contract": 3872,
+        "goods": "Кондицеонеры"
+      },
+      "driver": {
+        "id": 339,
+        "name": "Виктор Беляев"
+      },
+      "route": {
+        "progress": 60,
+        "from": "Брянск",
+        "to": "Москва",
+        "passed": 370
+      },
+      "status": {
+        "time": "21:10",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 656,
+        "company": "ООО \"Quordate\"",
+        "contract": 2308,
+        "goods": "Апельсины"
+      },
+      "driver": {
+        "id": 153,
+        "name": "Альберт Голубев"
+      },
+      "route": {
+        "progress": 89,
+        "from": "Якутск",
+        "to": "Екатеринбург",
+        "passed": 431
+      },
+      "status": {
+        "time": "24:10",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 565,
+        "company": "ООО \"Tripsch\"",
+        "contract": 7585,
+        "goods": "Апельсины"
+      },
+      "driver": {
+        "id": 904,
+        "name": "Никита Попов"
+      },
+      "route": {
+        "progress": 20,
+        "from": "Уфа",
+        "to": "Нижний Новгород",
+        "passed": 105
+      },
+      "status": {
+        "time": "48:56",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 722,
+        "company": "ООО \"Zentry\"",
+        "contract": 5660,
+        "goods": "Холодильники"
+      },
+      "driver": {
+        "id": 471,
+        "name": "Александр Виноградов"
+      },
+      "route": {
+        "progress": 42,
+        "from": "Уфа",
+        "to": "Нижний Новгород",
+        "passed": 819
+      },
+      "status": {
+        "time": "41:06",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 474,
+        "company": "ООО \"Corpulse\"",
+        "contract": 4041,
+        "goods": "Цемент"
+      },
+      "driver": {
+        "id": 704,
+        "name": "Альберт Иванов"
+      },
+      "route": {
+        "progress": 60,
+        "from": "Брянск",
+        "to": "Киров",
+        "passed": 642
+      },
+      "status": {
+        "time": "26:32",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 406,
+        "company": "ООО \"Oronoko\"",
+        "contract": 2394,
+        "goods": "Холодильники"
+      },
+      "driver": {
+        "id": 350,
+        "name": "Алексей Петров"
+      },
+      "route": {
+        "progress": 96,
+        "from": "Норильск",
+        "to": "Хабаровск",
+        "passed": 29
+      },
+      "status": {
+        "time": "34:12",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 616,
+        "company": "ООО \"Extragen\"",
+        "contract": 9043,
+        "goods": "Апельсины"
+      },
+      "driver": {
+        "id": 854,
+        "name": "Александр Зайцев"
+      },
+      "route": {
+        "progress": 84,
+        "from": "Екатеринбург",
+        "to": "Смоленск",
+        "passed": 30
+      },
+      "status": {
+        "time": "03:51",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 669,
+        "company": "ООО \"Vurbo\"",
+        "contract": 4788,
+        "goods": "Столы"
+      },
+      "driver": {
+        "id": 435,
+        "name": "Олег Михайлов"
+      },
+      "route": {
+        "progress": 80,
+        "from": "Санкт-Петербург",
+        "to": "Уфа",
+        "passed": 268
+      },
+      "status": {
+        "time": "44:54",
+        "status": "ОК"
+      }
+    },
+    {
+      "proposal": {
+        "id": 241,
+        "company": "ООО \"Zanity\"",
+        "contract": 9203,
+        "goods": "Столы"
+      },
+      "driver": {
+        "id": 274,
+        "name": "Геннадий Макаров"
+      },
+      "route": {
+        "progress": 38,
+        "from": "Хабаровск",
+        "to": "Екатеринбург",
+        "passed": 153
+      },
+      "status": {
+        "time": "03:10",
+        "status": "Опаздывает"
+      }
+    },
+    {
+      "proposal": {
+        "id": 120,
+        "company": "ООО \"Irack\"",
+        "contract": 9466,
+        "goods": "Цветы"
+      },
+      "driver": {
+        "id": 796,
+        "name": "Петр Титов"
+      },
+      "route": {
+        "progress": 12,
+        "from": "Санкт-Петербург",
+        "to": "Брянск",
+        "passed": 106
+      },
+      "status": {
+        "time": "21:51",
+        "status": "ОК"
+      }
+    }
+  ]
+}
